@@ -8,7 +8,7 @@ class UsersController < ApplicationController
       format.html # index.html.erb
       format.json { render json: @users }
     end
-  end
+  endt
 
   # GET /users/1
   # GET /users/1.json
